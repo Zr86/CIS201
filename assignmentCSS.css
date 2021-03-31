@@ -1,0 +1,29 @@
+
+body {
+text-align:left;
+background-color: red;
+font-size: 18px;
+}
+
+	p.p1 {
+font-size: 20px;
+	}
+select {
+font-size: 18px;
+}
+
+textarea {
+width: 355px;
+height: 250px;
+}
+div {
+	position:absolute;
+left:100px;
+	}
+	
+input[type=submit] {
+width: 12em;  
+	height: 7em;
+	background-color: #667799;
+color: blue;	}
+		
